@@ -30,4 +30,4 @@ The following **optional** advanced user stories are completed :
 
 ## Video Walkthrough 
 
-![Video Walkthrough](Tweets.gif)
+![Video Walkthrough](Tweets1.gif)
