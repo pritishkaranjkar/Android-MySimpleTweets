@@ -29,3 +29,5 @@ The following **optional** advanced user stories are completed :
 * [X] Move the "Compose" action to a FloatingActionButton instead of on the AppBar. (1 point)
 
 ## Video Walkthrough 
+
+![Video Walkthrough](Tweets.gif)
